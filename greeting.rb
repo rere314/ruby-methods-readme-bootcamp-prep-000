@@ -3,4 +3,3 @@ def greeting
 end
 
 greeting
-ruby greeting.rb
